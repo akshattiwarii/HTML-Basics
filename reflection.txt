@@ -1,0 +1,10 @@
+Approach:
+1. First I read all the instruction/tasks that are mentioned in the GDGoC PSIT task list.
+2. After all I use that element that are mentioned in the task list one by one.
+3. And in this way I cleared all the task one by one and that's it.
+
+Challenges:
+~ I only occured the line challenge that <a> tag is not covering all line it only take only that space which is needed for that, So for this I used <br/> tags which helps me to create new line for my new anchor tag this helps me to make the website more user-friendly.
+
+Learning:
+~ As I already familier with HTML but still it more helps me as form of task or we can say that small project.
